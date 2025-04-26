@@ -11,7 +11,7 @@ The backend logic is provided by a simple, `easy-to-extend` API Server that mana
 <br >
 
 ## ✨ `React` Datta Able
-
+ 
 - Modern aesthetics UI design - Designed by *[CodedThemes](https://bit.ly/37fF9RT)*
 - React, Redux, Redux-persist
 
